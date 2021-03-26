@@ -11,4 +11,5 @@
 
 *Jawab*
 
-1.![Uploading image.png…]()
+2. pada tag < P > Tag ini berfungsi untuk memberi perintah paragraf baru pada halaman html, antara baris atau paragraf terbentuk jarak. sedangkan tag < br > Memasukan satu baris putus
+3. alt Menunjukkan sebuah alternate text (teks pengganti) yang akan muncul apabila gambar tidak dapat ditampilkan. sedangkan title 
