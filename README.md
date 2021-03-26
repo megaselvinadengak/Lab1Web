@@ -1,4 +1,4 @@
-#"Praktikum 1: HTML Dasar"
+#Praktikum 1: HTML Dasar
 
 
 *Pertanyaan*
@@ -10,3 +10,5 @@
 
 
 *Jawab*
+
+1.![Uploading image.png…]()
