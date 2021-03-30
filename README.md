@@ -13,3 +13,5 @@
 
 2. pada tag < P > Tag ini berfungsi untuk memberi perintah paragraf baru pada halaman html, antara baris atau paragraf terbentuk jarak. sedangkan tag < br > Memasukan satu baris putus
 3. alt Menunjukkan sebuah alternate text (teks pengganti) yang akan muncul apabila gambar tidak dapat ditampilkan. sedangkan title 
+4. saya mengatur gambar dengan ukuran lebar (width) sebesar 300px, dan tinggi (height) sebesar 200px. 
+5. 
