@@ -15,4 +15,4 @@
 3. alt Menunjukkan sebuah alternate text (teks pengganti) yang akan muncul apabila gambar tidak dapat ditampilkan. sedangkan title 
 4. saya mengatur gambar dengan ukuran lebar (width) sebesar 300px, dan tinggi (height) sebesar 200px. 
 5. 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/[megaselvinadengak]/[Lab1web]/blob/[main]/image.jpg?raw=true)
